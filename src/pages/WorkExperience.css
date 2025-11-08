@@ -37,3 +37,14 @@
     transform: translateY(0);
   }
 }
+
+/* Company link styles */
+.vertical-timeline-element-subtitle a {
+  position: relative;
+  transition: color 0.3s ease;
+}
+
+.vertical-timeline-element-subtitle a:hover {
+  color: #2196F3 !important;
+  text-decoration: underline !important;
+}

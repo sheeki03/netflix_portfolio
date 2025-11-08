@@ -6,7 +6,7 @@ import { IoSchool as SchoolIcon } from 'react-icons/io5';
 import { FaStar as StarIcon } from 'react-icons/fa';
 import './WorkExperience.css';
 import { TimelineItem } from '../types';
-import { getTimeline } from '../queries/getTimeline';
+import { getTimeline } from '../data/localDataService';
 
 
 const WorkExperience: React.FC = () => {
@@ -58,7 +58,15 @@ const WorkExperience: React.FC = () => {
             {item.timelineType === "work" ? (
               <div style={{ color: 'black' }}>
                 <h3 className="vertical-timeline-element-title">{item.title}</h3>
-                <h4 className="vertical-timeline-element-subtitle">{item.name}</h4>
+                <h4 className="vertical-timeline-element-subtitle">
+                  {item.companyLink ? (
+                    <a href={item.companyLink} target="_blank" rel="noopener noreferrer" style={{ color: 'inherit', textDecoration: 'none' }}>
+                      {item.name} 🔗
+                    </a>
+                  ) : (
+                    item.name
+                  )}
+                </h4>
                 <p className="vertical-timeline-element-tech">🔧 {item.techStack}</p>
                 <p>{item.summaryPoints}</p>
               </div>

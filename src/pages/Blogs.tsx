@@ -1,36 +1,36 @@
 import React from 'react';
 import './Blogs.css';
-import { FaMedium, FaDev } from 'react-icons/fa';
+import { FaTwitter, FaGithub, FaFileAlt } from 'react-icons/fa';
 
 const blogs = [
   {
-    title: "Make Your Rails Console Look Better",
-    platform: "Medium",
-    icon: <FaMedium />,
-    link: "https://medium.com/@chintusamala96/make-your-rails-console-look-better-510988d40566",
-    description: "Learn tips to customize your Rails console for a better experience.",
+    title: "DeFi Research & Analysis Writeups",
+    platform: "Research Archive",
+    icon: <FaFileAlt />,
+    link: "https://bit.ly/shivom-writeups",
+    description: "Comprehensive research papers and analysis on DeFi protocols, tokenomics, and blockchain infrastructure.",
   },
   {
-    title: "Docker Fundas - My Version",
-    platform: "Medium",
-    icon: <FaMedium />,
-    link: "https://medium.com/@chintusamala96/docker-fundas-my-version-7b9262bd90d4",
-    description: "An introductory guide to Docker fundamentals from my perspective.",
+    title: "Twitter / X - Blockchain Insights",
+    platform: "Twitter",
+    icon: <FaTwitter />,
+    link: "https://twitter.com/sheeki03",
+    description: "Real-time thoughts on crypto markets, DeFi innovations, and blockchain technology trends.",
   },
   {
-    title: "Grape Gem in Ruby on Rails: Handling User Model and API Endpoint",
-    platform: "Dev.to",
-    icon: <FaDev />,
-    link: "https://dev.to/samalasumanth0262/grape-gem-in-ruby-on-rails-handling-user-model-and-api-endpoint-g6d",
-    description: "A guide to using the Grape gem for API development in Ruby on Rails.",
+    title: "GitHub - Open Source Contributions",
+    platform: "GitHub",
+    icon: <FaGithub />,
+    link: "https://github.com/sheeki03",
+    description: "Smart contract implementations, DeFi research tools, and blockchain development projects.",
   },
 ];
 
 const Blogs: React.FC = () => {
   return (
     <div className="blogs-container">
-      <h2 className="blogs-title">✍️ My Blog Posts</h2>
-      <p className="blogs-intro">A collection of my thoughts and tutorials on software development.</p>
+      <h2 className="blogs-title">📚 Research & Writings</h2>
+      <p className="blogs-intro">Deep dives into DeFi protocols, tokenomics, and blockchain research.</p>
       <div className="blogs-grid">
         {blogs.map((blog, index) => (
           <a href={blog.link} key={index} target="_blank" rel="noopener noreferrer" className="blog-card" style={{ '--delay': `${index * 0.2}s` } as React.CSSProperties}>

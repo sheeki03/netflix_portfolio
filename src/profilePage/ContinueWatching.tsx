@@ -2,7 +2,7 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import './ContinueWatching.css';
 
-type ProfileType = 'recruiter' | 'developer' | 'stalker' | 'adventure';
+type ProfileType = 'recruiter' | 'researcher' | 'stalker' | 'explorer';
 
 interface ContinueWatchingProps {
   profile: ProfileType;
@@ -10,37 +10,45 @@ interface ContinueWatchingProps {
 
 const continueWatchingConfig = {
   recruiter: [
-    { title: "Music", imgSrc: "https://picsum.photos/id/1025/300/200", link: "/music" },
-    { title: "Reading", imgSrc: "https://picsum.photos/id/1026/300/200", link: "/reading" },
-    { title: "Blogs", imgSrc: "https://picsum.photos/id/1027/300/200", link: "/blogs" },
-    { title: "Contact Me", imgSrc: "https://picsum.photos/id/1029/300/200", link: "/contact-me" }
+    { title: "Reading", imgSrc: "/assets/images/picsum_id_1026.jpg", link: "/reading" },
+    { title: "Blogs", imgSrc: "/assets/images/picsum_id_1027.jpg", link: "/blogs" },
+    { title: "Projects", imgSrc: "/assets/images/picsum_id_1028.jpg", link: "/projects" },
+    { title: "Resume", imgSrc: "/assets/images/picsum_id_1029.jpg", link: "/resume" }
   ],
-  developer: [
-    { title: "Music", imgSrc: "https://picsum.photos/id/1025/300/200", link: "/music" },
-    { title: "Reading", imgSrc: "https://picsum.photos/id/1026/300/200", link: "/reading" },
-    { title: "Blogs", imgSrc: "https://picsum.photos/id/1027/300/200", link: "/blogs" },
-    { title: "Certifications", imgSrc: "https://picsum.photos/id/1028/300/200", link: "/certifications" },
-    { title: "Contact Me", imgSrc: "https://picsum.photos/id/1029/300/200", link: "/contact-me" }
+  researcher: [
+    { title: "Reading", imgSrc: "/assets/images/picsum_id_1026.jpg", link: "/reading" },
+    { title: "Blogs", imgSrc: "/assets/images/picsum_id_1027.jpg", link: "/blogs" },
+    { title: "Certifications", imgSrc: "/assets/images/picsum_id_1028.jpg", link: "/certifications" },
+    { title: "Projects", imgSrc: "/assets/images/picsum_id_1030.jpg", link: "/projects" },
+    { title: "Resume", imgSrc: "/assets/images/picsum_id_1029.jpg", link: "/resume" }
   ],
   stalker: [
-    { title: "Reading", imgSrc: "https://picsum.photos/id/1026/300/200", link: "/reading" },
-    { title: "Blogs", imgSrc: "https://picsum.photos/id/1027/300/200", link: "/blogs" },
-    { title: "Contact Me", imgSrc: "https://picsum.photos/id/1029/300/200", link: "/contact-me" }
+    { title: "Contact", imgSrc: "/assets/images/picsum_id_1031.jpg", link: "/contact" },
+    { title: "Reading", imgSrc: "/assets/images/picsum_id_1026.jpg", link: "/reading" },
+    { title: "Blogs", imgSrc: "/assets/images/picsum_id_1027.jpg", link: "/blogs" },
+    { title: "Resume", imgSrc: "/assets/images/picsum_id_1029.jpg", link: "/resume" }
   ],
-  adventure: [
-    { title: "Music", imgSrc: "https://picsum.photos/id/1025/300/200", link: "/music" },
-    { title: "Reading", imgSrc: "https://picsum.photos/id/1026/300/200", link: "/reading" },
-    { title: "Certifications", imgSrc: "https://picsum.photos/id/1028/300/200", link: "/certifications" },
-    { title: "Contact Me", imgSrc: "https://picsum.photos/id/1029/300/200", link: "/contact-me" }
+  explorer: [
+    { title: "Reading", imgSrc: "/assets/images/picsum_id_1026.jpg", link: "/reading" },
+    { title: "Blogs", imgSrc: "/assets/images/picsum_id_1027.jpg", link: "/blogs" },
+    { title: "Certifications", imgSrc: "/assets/images/picsum_id_1028.jpg", link: "/certifications" },
+    { title: "Resume", imgSrc: "/assets/images/picsum_id_1029.jpg", link: "/resume" }
   ]
 };
 
 const ContinueWatching: React.FC<ContinueWatchingProps> = ({ profile }) => {
   const continueWatching = continueWatchingConfig[profile];
 
+  const profileDisplayNames: Record<ProfileType, string> = {
+    recruiter: 'Recruiter',
+    researcher: 'Researcher',
+    stalker: 'Stalker',
+    explorer: 'Explorer'
+  };
+
   return (
     <div className="continue-watching-row">
-      <h2 className="row-title">Continue Watching for {profile}</h2>
+      <h2 className="row-title">Continue Watching for {profileDisplayNames[profile]}</h2>
       <div className="card-row">
         {continueWatching.map((pick, index) => (
           <Link to={pick.link} key={index} className="pick-card">

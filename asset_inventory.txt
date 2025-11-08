@@ -1,0 +1,39 @@
+=== BACKGROUND GIFs ===
+https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGNidDl5emZpejY2eGFxa2I4NW0zZGNpbWRlbnBrZ3N2dWhhbzM1MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TFPdmm3rdzeZ0kP3zG/giphy.gif
+https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTZ5eWwwbjRpdWM1amxyd3VueHhteTVzajVjeGZtZGJ1dDc4MXMyNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dg/16u7Ifl2T4zYfQ932F/giphy.gif
+https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmxib24ycWo2cjlmazh0NGV5NTZ2Mzd2YWY0M2tvam9oYXBwYW1ocCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ERKMnDK6tkzJe8YVa3/giphy-downsized-large.gif
+https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc28yMjMyZmJ6eWtxbmNwdDV6cXk4dWZmcjFhZms2cXBjN2h5ZDJjeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QjZXUBUr89CkiWLPjL/giphy.gif
+https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif
+
+=== PICSUM PLACEHOLDER IMAGES ===
+https://picsum.photos/id/1025/300/200
+https://picsum.photos/id/1026/300/200
+https://picsum.photos/id/1027/300/200
+https://picsum.photos/id/1028/300/200
+https://picsum.photos/id/1029/300/200
+https://picsum.photos/seed/achievements/250/200
+https://picsum.photos/seed/badge/250/200
+https://picsum.photos/seed/books/250/200
+https://picsum.photos/seed/call/250/200
+https://picsum.photos/seed/certifications/250/200
+https://picsum.photos/seed/coding/250/200
+https://picsum.photos/seed/connect/250/200
+https://picsum.photos/seed/contact/250/200
+https://picsum.photos/seed/development/250/200
+https://picsum.photos/seed/innovation/250/200
+https://picsum.photos/seed/medal/250/200
+https://picsum.photos/seed/music/250/200
+https://picsum.photos/seed/networking/250/200
+https://picsum.photos/seed/planning/250/200
+https://picsum.photos/seed/projects/250/200
+https://picsum.photos/seed/recommendations/250/200
+https://picsum.photos/seed/resume/250/200
+https://picsum.photos/seed/skills/250/200
+https://picsum.photos/seed/work/250/200
+https://picsum.photos/seed/workexperience/250/200
+https://picsum.photos/seed/workpermit/250/200
+
+=== BLOG LINKS (NOT MEDIA) ===
+https://dev.to/samalasumanth0262/grape-gem-in-ruby-on-rails-handling-user-model-and-api-endpoint-g6d
+https://medium.com/@chintusamala96/docker-fundas-my-version-7b9262bd90d4
+https://medium.com/@chintusamala96/make-your-rails-console-look-better-510988d40566

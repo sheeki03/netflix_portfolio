@@ -1,0 +1,231 @@
+{
+  "profilebanner": {
+    "backgroundImage": { "url": "/assets/backgrounds/background_1.gif" },
+    "headline": "Shivom Sharma - Senior Blockchain Researcher",
+    "resumeLink": {
+      "url": "https://bit.ly/shivom-writeups"
+    },
+    "linkedinLink": "https://linkedin.com/in/shivom-sharma-465906112",
+    "profileSummary": "Early crypto adopter (since 2015) with deep expertise in DeFi, blockchain infrastructure, and research fundamentals. Passionate about decentralized technologies, privacy, and exploring intersections between blockchain, AI, and machine learning."
+  },
+  "allProjects": [
+    {
+      "title": "Newsly Protocol",
+      "description": "News trading protocol - Designed trading engine and protocol mechanics for news-based market predictions",
+      "techUsed": "Solidity, DeFi, Oracles, Game Theory",
+      "image": { "url": "/assets/images/picsum_seed_projects.jpg" }
+    },
+    {
+      "title": "Mirrorly",
+      "description": "CEX Leaderboard copytrading protocol - Built framework for trading engine and copy-trading mechanics",
+      "techUsed": "Cross-chain, Trading Algorithms, Smart Contracts",
+      "image": { "url": "/assets/images/picsum_seed_development.jpg" }
+    },
+    {
+      "title": "Sudoswap",
+      "description": "Decentralized NFT liquidity marketplace - Contributed to research, game theory mechanics, and beta testing",
+      "techUsed": "NFTs, AMM, Liquidity Pools, ERC721",
+      "image": { "url": "/assets/images/picsum_seed_innovation.jpg" }
+    },
+    {
+      "title": "Mithraeum",
+      "description": "Web3 strategy game - Designed tokenomics and gaming mechanics for blockchain integration",
+      "techUsed": "GameFi, Tokenomics, Web3, Smart Contracts",
+      "image": { "url": "/assets/images/picsum_seed_planning.jpg" }
+    },
+    {
+      "title": "VeToken",
+      "description": "Revamped tokenomics and implemented governance model strategies for the protocol",
+      "techUsed": "Governance, veTokenomics, DAO, DeFi",
+      "image": { "url": "/assets/images/picsum_seed_networking.jpg" }
+    },
+    {
+      "title": "Hundred Finance",
+      "description": "Cross-chain money market on 9 EVM chains - Revamped tokenomics to mVE model and liquidity mining",
+      "techUsed": "Cross-chain, Money Markets, veTokenomics, Yield Farming",
+      "image": { "url": "/assets/images/picsum_seed_badge.jpg" }
+    }
+  ],
+  "allSkills": [
+    {
+      "name": "Solidity",
+      "category": "Blockchain",
+      "description": "Smart contract development and ERC standards (ERC20, ERC721, ERC1155)",
+      "icon": "FaEthereum"
+    },
+    {
+      "name": "DeFi Protocols",
+      "category": "Blockchain",
+      "description": "Yield Farming, AMMs, Oracles, Bridges, ENS, Stablecoins",
+      "icon": "FaCoins"
+    },
+    {
+      "name": "Tokenomics",
+      "category": "Research",
+      "description": "Game theory, token engineering, and economic modeling",
+      "icon": "FaChartLine"
+    },
+    {
+      "name": "MEV Research",
+      "category": "Blockchain",
+      "description": "Flashbots, Dark Forest exploration, and MEV strategies",
+      "icon": "FaSearch"
+    },
+    {
+      "name": "Python",
+      "category": "Languages",
+      "description": "Data analysis, blockchain analytics, and automation",
+      "icon": "FaPython"
+    },
+    {
+      "name": "On-Chain Analytics",
+      "category": "Analytics",
+      "description": "Etherscan, Nansen, Dune, Flipside, Parsec",
+      "icon": "FaDatabase"
+    },
+    {
+      "name": "Layer 1/2",
+      "category": "Blockchain",
+      "description": "POS, POW, POH, ZK-SNARKs, ZK-STARKs, Rollups",
+      "icon": "FaLayerGroup"
+    },
+    {
+      "name": "SQL & R",
+      "category": "Languages",
+      "description": "Database queries and statistical analysis for research",
+      "icon": "FaDatabase"
+    }
+  ],
+  "allTimelines": [
+    {
+      "timelineType": "work",
+      "name": "Impossible Finance",
+      "title": "Senior Researcher",
+      "techStack": "DeFi, Web3, Tokenomics, Due Diligence",
+      "summaryPoints": [
+        "Conduct due diligence and competitor benchmarking of Web3 startups",
+        "Manage client accounts end-to-end from negotiation to relationship management",
+        "Build partnerships with investors, accelerators, and ecosystem stakeholders",
+        "Develop investment theses and alternative strategies for portfolio projects"
+      ],
+      "dateRange": "Dec 2024 - Present",
+      "companyLink": "https://impossible.finance/"
+    },
+    {
+      "timelineType": "work",
+      "name": "Lemniscap",
+      "title": "Research Lead",
+      "techStack": "Investment Analysis, Market Research, Portfolio Management",
+      "summaryPoints": [
+        "Led team of analysts evaluating portfolio companies' business models and token designs",
+        "Identified high-potential investment opportunities across crypto ecosystem",
+        "Provided data-driven insights improving deal sourcing and portfolio performance",
+        "Supported portfolio projects with ideation, research, and beta testing"
+      ],
+      "dateRange": "Jun 2023 - Sep 2024",
+      "companyLink": "https://lemniscap.com/"
+    },
+    {
+      "timelineType": "work",
+      "name": "Nethermind",
+      "title": "Researcher DeFi R&D",
+      "techStack": "DeFi Research, Protocol Analysis, Game Theory",
+      "summaryPoints": [
+        "Conducted research for Brevan Howard, Lido, Flashbots, Ethereum Foundation",
+        "Analyzed emerging DeFi trends and protocols for strategic decisions",
+        "Developed and launched internal DeFi platforms and partner-facing tools",
+        "Analyzed protocols from financial and game theory perspectives"
+      ],
+      "dateRange": "Jun 2022 - Jun 2023",
+      "companyLink": "https://nethermind.io/"
+    },
+    {
+      "timelineType": "work",
+      "name": "DegenDAO",
+      "title": "Investment Analyst & Researcher",
+      "techStack": "Investment, Tokenomics, Yield Farming, Treasury Management",
+      "summaryPoints": [
+        "Sourced and invested in blockchain ecosystem projects",
+        "Assisted projects with tokenomics and protocol development",
+        "Managed investment treasury and yield farming in DeFi"
+      ],
+      "dateRange": "Dec 2021 - Sep 2022"
+    },
+    {
+      "timelineType": "work",
+      "name": "Mondove Biotech Pvt Ltd",
+      "title": "Blockchain Consultant",
+      "techStack": "Corda, Supply Chain, Blockchain Architecture",
+      "summaryPoints": [
+        "Designed inventory management supply chain solution on Corda blockchain",
+        "Prototyped blockchain solution in collaboration with development teams"
+      ],
+      "dateRange": "Jul 2021 - Nov 2021"
+    },
+    {
+      "timelineType": "education",
+      "name": "GGSIPU",
+      "title": "Bachelor of Science - Computer Science",
+      "techStack": "Computer Science, Programming, Data Structures",
+      "summaryPoints": [
+        "Strong foundation in computer science fundamentals",
+        "Focus on blockchain and distributed systems",
+        "Active participation in tech communities"
+      ],
+      "dateRange": "Completed"
+    }
+  ],
+  "allCertifications": [
+    {
+      "title": "DeFi Talents",
+      "issuer": "Frankfurt School Blockchain Center",
+      "issuedDate": "2021",
+      "link": "https://www.frankfurt-school.de/",
+      "iconName": "FaUniversity"
+    },
+    {
+      "title": "Blockchain Revolution Specialization",
+      "issuer": "INSEAD",
+      "issuedDate": "2021",
+      "link": "https://www.coursera.org/specializations/blockchain-revolution-enterprise",
+      "iconName": "FaGraduationCap"
+    },
+    {
+      "title": "Blockchain Specialization",
+      "issuer": "University At Buffalo & SUNY",
+      "issuedDate": "2020",
+      "link": "https://www.coursera.org/",
+      "iconName": "FaEthereum"
+    },
+    {
+      "title": "Data Scientist With Python",
+      "issuer": "DataCamp",
+      "issuedDate": "2020",
+      "link": "https://www.datacamp.com/",
+      "iconName": "FaPython"
+    },
+    {
+      "title": "Data Scientist With R",
+      "issuer": "DataCamp",
+      "issuedDate": "2020",
+      "link": "https://www.datacamp.com/",
+      "iconName": "FaChartBar"
+    }
+  ],
+  "contactme": {
+    "profilePicture": { "url": "/assets/images/picsum_seed_contact.jpg" },
+    "name": "Shivom Sharma",
+    "title": "Senior Researcher - Impossible Finance",
+    "summary": "Blockchain researcher and DeFi expert with extensive experience in protocol research, tokenomics, and strategic advisory. Ranked #4 on DegenScore v1 Leaderboard.",
+    "companyUniversity": "Impossible Finance",
+    "linkedinLink": "https://linkedin.com/in/shivom-sharma-465906112",
+    "email": "shivomsharma@protonmail.com",
+    "phoneNumber": "Contact via Email"
+  },
+  "workpermit": {
+    "visaStatus": "Global Remote Opportunities",
+    "expiryDate": "2030-12-31T00:00:00.000Z",
+    "summary": "Available for remote blockchain and DeFi research opportunities worldwide. Ranked #4 on DegenScore v1 Leaderboard.",
+    "additionalInfo": "Open to advisory roles, investment research, and strategic consulting in Web3 ecosystem."
+  }
+}

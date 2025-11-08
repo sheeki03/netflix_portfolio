@@ -3,7 +3,7 @@ import './Certifications.css';
 import { FaExternalLinkAlt, FaUniversity } from 'react-icons/fa';
 import { SiUdemy, SiCoursera, SiIeee } from 'react-icons/si';
 import { Certification } from '../types';
-import { getCertifications } from '../queries/getCertifications';
+import { getCertifications } from '../data/localDataService';
 const iconData: { [key: string]: JSX.Element } = {
   'udemy': <SiUdemy />,
   'coursera': <SiCoursera />,

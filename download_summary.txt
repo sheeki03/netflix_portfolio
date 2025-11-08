@@ -1,0 +1,39 @@
+=== DOWNLOAD SUMMARY ===
+Background GIFs:
+-rw-r--r--@ 1 home  staff   4837467 Nov  8 16:41 background_1.gif
+-rw-r--r--@ 1 home  staff  11080335 Nov  8 16:41 background_2.gif
+-rw-r--r--@ 1 home  staff   2362808 Nov  8 16:41 background_3.gif
+-rw-r--r--@ 1 home  staff    239321 Nov  8 16:41 background_4.gif
+-rw-r--r--@ 1 home  staff    160026 Nov  8 16:41 background_5.gif
+
+Placeholder Images:
+-rw-r--r--@  1 home  staff  14443 Nov  8 16:42 picsum_id_1025.jpg
+-rw-r--r--@  1 home  staff  11576 Nov  8 16:42 picsum_id_1026.jpg
+-rw-r--r--@  1 home  staff   6894 Nov  8 16:42 picsum_id_1027.jpg
+-rw-r--r--@  1 home  staff   8822 Nov  8 16:42 picsum_id_1028.jpg
+-rw-r--r--@  1 home  staff  12196 Nov  8 16:42 picsum_id_1029.jpg
+-rw-r--r--@  1 home  staff   9803 Nov  8 16:42 picsum_seed_achievements.jpg
+-rw-r--r--@  1 home  staff   4716 Nov  8 16:42 picsum_seed_badge.jpg
+-rw-r--r--@  1 home  staff  10572 Nov  8 16:42 picsum_seed_books.jpg
+-rw-r--r--@  1 home  staff  12618 Nov  8 16:42 picsum_seed_call.jpg
+-rw-r--r--@  1 home  staff   8925 Nov  8 16:42 picsum_seed_certifications.jpg
+-rw-r--r--@  1 home  staff   3582 Nov  8 16:42 picsum_seed_coding.jpg
+-rw-r--r--@  1 home  staff  10429 Nov  8 16:42 picsum_seed_connect.jpg
+-rw-r--r--@  1 home  staff   6476 Nov  8 16:42 picsum_seed_contact.jpg
+-rw-r--r--@  1 home  staff   7428 Nov  8 16:42 picsum_seed_development.jpg
+-rw-r--r--@  1 home  staff   4624 Nov  8 16:43 picsum_seed_innovation.jpg
+-rw-r--r--@  1 home  staff  12072 Nov  8 16:43 picsum_seed_medal.jpg
+-rw-r--r--@  1 home  staff   7322 Nov  8 16:43 picsum_seed_music.jpg
+-rw-r--r--@  1 home  staff   8279 Nov  8 16:43 picsum_seed_networking.jpg
+-rw-r--r--@  1 home  staff   7463 Nov  8 16:43 picsum_seed_planning.jpg
+-rw-r--r--@  1 home  staff  14274 Nov  8 16:43 picsum_seed_projects.jpg
+-rw-r--r--@  1 home  staff   9377 Nov  8 16:43 picsum_seed_recommendations.jpg
+-rw-r--r--@  1 home  staff  11004 Nov  8 16:43 picsum_seed_resume.jpg
+-rw-r--r--@  1 home  staff   6790 Nov  8 16:43 picsum_seed_skills.jpg
+-rw-r--r--@  1 home  staff  11182 Nov  8 16:43 picsum_seed_work.jpg
+-rw-r--r--@  1 home  staff   7764 Nov  8 16:43 picsum_seed_workexperience.jpg
+-rw-r--r--@  1 home  staff  11012 Nov  8 16:43 picsum_seed_workpermit.jpg
+
+=== TOTAL ASSET COUNTS ===
+Background GIFs:        5
+Placeholder Images:       26

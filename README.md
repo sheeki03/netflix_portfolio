@@ -1,37 +1,37 @@
-## 🌟 Sumanth Samala's Netflix inspired Portfolio 🌟 - https://sumanthsamala.com/
+## 🌟 Shivom Sharma's Netflix inspired Portfolio 🌟
 
-Welcome to my personal portfolio project! 🚀 This website showcases my work, skills, and experiences in web development. It's designed to be lightweight, customizable, and professional while maintaining an approachable style.
+Welcome to my personal portfolio project! 🚀 This website showcases my work, research, and expertise in blockchain and DeFi. It's designed to be professional yet approachable, highlighting my journey in the Web3 ecosystem.
 
-Explore specific subdomains tailored to different tech stacks:
+Explore my work across different platforms:
 
-- 🌟 [java.sumanthsamala.com](https://java.sumanthsamala.com/) for Java Spring Boot-related work.
-- 🌟 [node.sumanthsamala.com](https://node.sumanthsamala.com/) for Node.js and backend development.
-- 🌟 [frontend.sumanthsamala.com](https://frontend.sumanthsamala.com/) for frontend development expertise.
-- 🌟 [ror.sumanthsamala.com](https://ror.sumanthsamala.com/) for Ruby on Rails projects.
+- 🌟 [Impossible Finance](https://impossible.finance/) - Current role as Senior Researcher
+- 🌟 [Research Writeups](https://bit.ly/shivom-writeups) - DeFi research and analysis
+- 🌟 [GitHub](https://github.com/sheeki03) - Open source contributions
+- 🌟 [Twitter/X](https://twitter.com/sheeki03) - Blockchain insights and thoughts
 
-![Screenshot from 2024-12-08 19-19-06](https://github.com/user-attachments/assets/f8220485-16ec-48cf-8cb2-7853540c5724)
+![Portfolio Screenshot](https://github.com/user-attachments/assets/f8220485-16ec-48cf-8cb2-7853540c5724)
 
 ---
 
 ## ✨ Features
 
-- 🌍 **Dynamic Content**: Powered by [DatoCMS](https://www.datocms.com) for easy content management.
-- ⚡ **Fast & Responsive**: Built with modern web technologies for seamless performance.
-- 🎨 **Customizable**: Modular and easy to adapt to your own needs.
-- 📈 **Professional Yet Personal**: Highlights projects, skills, and achievements.
-- 🎨 It can support various por
+- 🌍 **Local Content Management**: All data stored locally for fast performance
+- ⚡ **Fast & Responsive**: Built with modern web technologies for seamless performance
+- 🎨 **Netflix-Inspired Design**: Unique portfolio presentation style
+- 📈 **Professional Focus**: Highlights blockchain research, DeFi projects, and expertise
+- 📚 **Extensive Reading List**: Curated collection of 70+ influential books
 
 ---
 
 ## 🛠️ Tech Stack
 
-This portfolio is built with love and:
+This portfolio is built with:
 
 - ⚛️ **React** (Frontend)
-- ☁️ **AWS S3 & CloudFront** (Hosting and CDN)
-- 🖌️ **Tailwind CSS** (Styling)
-- 🛡️ **DatoCMS** (Content Management)
-- 🧩 **Other Cool Tools**: GitHub Actions
+- 🎨 **Tailwind CSS** (Styling)
+- 📊 **Local JSON Data** (Content Management)
+- 🔗 **TypeScript** (Type Safety)
+- 🎬 **Netflix-Style UI** (User Experience)
 
 ---
 
@@ -39,7 +39,7 @@ This portfolio is built with love and:
 
 If you find this project helpful or inspiring, give it a ⭐ on GitHub—it means the world to me! 🌟
 
-Happy coding! 💻✨
+Happy exploring the blockchain world! 💻✨
 
 ---
 
@@ -63,15 +63,13 @@ npm cache clean --force
 npm install
 ```
 
-3. **Configure Environment Variables**: Create a `.env` file and set up the necessary API keys and configurations.
-4. **Run the Project**: Start the development server.
+3. **Run the Project**: Start the development server.
 
 ```bash
 npm start
 ```
 
-5. **Visit the Local Server**: Open your browser and navigate to the local server URL.
-   ![alt text](image.png)
+4. **Visit the Local Server**: Open your browser and navigate to http://localhost:3000
 
 ---
 
@@ -102,17 +100,19 @@ Your feedback is valuable and helps make this project better for everyone. Thank
 
 ## 🌟 Acknowledgments
 
-- Thanks to [DatoCMS](https://www.datocms.com) for powering the dynamic content.
-- Inspired by countless developers in the open-source community. 💻
+- Thanks to the open-source community for inspiration and tools
 - Special shoutout to all contributors—you rock! 🤘
+- Inspired by Netflix's innovative UI/UX design
 
 ---
 
 ## 📧 Contact Me
 
-- 💼 [Portfolio Website](https://sumanthsamala.com)
-- 📧 Email: [chintusamala96@gmail.com](mailto:chintusamala96@gmail.com)
-- 🔗 [LinkedIn](https://uk.linkedin.com/in/sumanth-samala-82431161)
+- 💼 [Research Writeups](https://bit.ly/shivom-writeups)
+- 📧 Email: [shivomsharma@protonmail.com](mailto:shivomsharma@protonmail.com)
+- 🔗 [LinkedIn](https://linkedin.com/in/shivom-sharma-465906112)
+- 🐦 [Twitter/X](https://twitter.com/sheeki03)
+- 💻 [GitHub](https://github.com/sheeki03)
 
 ---
 

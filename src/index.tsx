@@ -5,6 +5,9 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 import { BrowserRouter as Router } from 'react-router-dom';
 
+// 🚫 Block all external API calls - Portfolio runs 100% locally
+import './data/apiBlocker';
+
 const root = ReactDOM.createRoot(
   document.getElementById('root') as HTMLElement
 );
